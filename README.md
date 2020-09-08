@@ -11,3 +11,6 @@ E-mail: 2917315366@qq.com
 | decorator.py |                Record execution time. 
 | md5.py |     		              A simple implementation of md5 algorithm.  
 | reader.py |                   File reading and writting methods
+| cracked_passwords.txt |       Samples of cracked passwords
+| password.txt |                Samples of user input passwords
+
