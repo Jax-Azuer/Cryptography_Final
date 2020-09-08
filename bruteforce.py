@@ -1,5 +1,6 @@
 # Author: Ronghan Che
 # Version 9 / 3 / 2020
+# Implements a brutal force attack
 # Reference to https://github.com/hrchlhck/Auth-hash.
 from reader import DataReader
 from decorator import timer

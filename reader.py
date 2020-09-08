@@ -1,3 +1,6 @@
+# Author: Ronghan Che
+# Version 9 / 3 / 2020
+# Reference to https://github.com/hrchlhck/Auth-hash.
 import os
 
 

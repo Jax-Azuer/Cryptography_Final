@@ -1,3 +1,6 @@
+# Author: Ronghan Che
+# Version 9 / 3 / 2020
+# Reference to https://github.com/timvandermeij.
 from argparse import ArgumentParser
 
 from md5 import MD5

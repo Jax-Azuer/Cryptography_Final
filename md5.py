@@ -1,5 +1,6 @@
 # Author: Ronghan Che
 # Version: 9 / 3 / 2020
+# Implements a MD5 algorithm
 # Reference to https://github.com/timvandermeij
 import struct
 from enum import Enum
