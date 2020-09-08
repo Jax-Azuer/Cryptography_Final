@@ -1,6 +1,6 @@
 ### Cryptography Final Project
 This repository includes an implementation of MD5 algorithm, and a brutal force attack method.
-Author Name: Ronghan Che
+##### Author Name: Ronghan Che
 E-mail: 2917315366@qq.com
 
 ### File Description 
